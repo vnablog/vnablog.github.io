@@ -1,1 +1,1 @@
-define({'My Term':{d:'My definition',l:''}});
+define({"My Term":{d:"My definition",l:""}});
