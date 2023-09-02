@@ -1,1 +1,26 @@
-@media print{.micro-content-truncated-mode .micro-response{overflow:hidden!important}.buttons{display:none}ul.menu{display:none}}
+/*<meta />*/
+
+@media print 
+{
+	/* Micro content skin styles */
+
+	.micro-content-truncated-mode .micro-response
+	{
+		overflow: hidden !important;
+	}
+
+	/* Hide Toolbar Topic proxy ans eLearning Toolbar proxy by default */
+
+	.buttons
+	{
+		display: none;
+	}
+
+	/* Menu styles */
+
+	ul.menu
+	{
+		display: none;
+	}
+}
+
