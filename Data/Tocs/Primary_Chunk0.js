@@ -1,1 +1,0 @@
-define({'/12-days-of-christmas.html':{i:[3],t:['Uncovering the Fascinating History Behind the Twelve Days of Christmas'],b:['']},'/christmas.html':{i:[2],t:['Christmas'],b:['']},'/home.html':{i:[0],t:['Home'],b:['']},'/privacy_policy.html':{i:[1],t:['Privacy Policy'],b:['']}});
