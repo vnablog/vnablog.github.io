@@ -306,7 +306,7 @@ var requirejs, require, define;
 
 (function ()
 {
-var helpSystemName = "Default.htm";
+var helpSystemName = "index.html";
 
     MadCap.OpenHelp = function (id, skinName, searchQuery, firstPick, pathToHelpSystem)
     {
