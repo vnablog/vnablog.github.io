@@ -1,0 +1,1 @@
+define({"../12-days-of-christmas.html":3,"../christmas.html":2,"../home.html":0,"../privacy_policy.html":1});
