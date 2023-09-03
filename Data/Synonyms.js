@@ -1,1 +1,7 @@
-var xmlSynonymsData="",xmlSynonymsData=(xmlSynonymsData=(xmlSynonymsData+='<?xml version="1.0" encoding="utf-8"?>')+'<MadCapSynonyms xml:lang="en-us">'+"    <Groups />")+"    <Directional />"+"</MadCapSynonyms>";MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add("Synonyms",xmlSynonymsData);
+var xmlSynonymsData = "";
+xmlSynonymsData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlSynonymsData += '<MadCapSynonyms xml:lang=\"en-us\">';
+xmlSynonymsData += '    <Groups />';
+xmlSynonymsData += '    <Directional />';
+xmlSynonymsData += '</MadCapSynonyms>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Synonyms', xmlSynonymsData);
