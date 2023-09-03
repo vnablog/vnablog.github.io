@@ -1,1 +1,1 @@
-define({"/12-days-of-christmas.htm":{i:[3],t:["Uncovering the Fascinating History Behind the Twelve Days of Christmas"],b:[""]},"/christmas.htm":{i:[2],t:["Christmas"],b:[""]},"/home.htm":{i:[0],t:["Home"],b:[""]},"/privacy_policy.htm":{i:[1],t:["Privacy Policy"],b:[""]}});
+define({'/12-days-of-christmas.htm':{i:[3],t:['Uncovering the Fascinating History Behind the Twelve Days of Christmas'],b:['']},'/christmas.htm':{i:[2],t:['Christmas'],b:['']},'/home.htm':{i:[0],t:['Home'],b:['']},'/privacy_policy.htm':{i:[1],t:['Privacy Policy'],b:['']}});

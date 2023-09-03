@@ -1,1 +1,1 @@
-define({"../12-days-of-christmas.htm":3,"../christmas.htm":2,"../home.htm":0,"../privacy_policy.htm":1});
+define({"../12-days-of-christmas.htm":3,"../christmas.htm":2,"../home.htm":0,"../privacy_policy.htm":1,});
