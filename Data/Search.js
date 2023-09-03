@@ -1,1 +1,1 @@
-define({r:.5,st:"Stem",n:1,t:[0],m:[],u:["../12-days-of-christmas.html"],s:["1","testament"],p:[["1",4],["follows",1],["renditions",3]]});
+define({r:.5,st:"Stem",n:1,t:[0],m:[0],u:["../12-days-of-christmas.html"],s:["1","power"],p:[["1",4],["cords",4],["inspired",4],["recordings",3],["under",1]]});
