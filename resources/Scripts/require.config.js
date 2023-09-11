@@ -1,1 +1,3 @@
-require.config({urlArgs:"t=638293586394557617"});
+require.config({
+    urlArgs: 't=638300209084638938'
+});
