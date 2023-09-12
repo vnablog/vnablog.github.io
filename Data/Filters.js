@@ -1,1 +1,1 @@
-define({'My Subset':{c:'', cm:'', o:-1},})
+define({"My Subset":{c:"",cm:"",o:-1}});

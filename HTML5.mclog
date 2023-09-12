@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2023 Generated HTML5.fltar" Date="2023-09-11T09:21:51.9874500+05:30">
+<MadCapLog Protocol="2" Description="MadCap Flare 2023 Generated HTML5.fltar" Date="2023-09-12T18:55:01.6173177+05:30">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -36,9 +36,12 @@ Generated christmas_decoration_ideas_for_table.html
 Processing topic: dining room christmas decoration.htm...
 Applying template page Other-pages.flmsp...
 Generated dining_room_christmas_decoration.html
+Processing topic: lighted christmas tree decor.htm...
+Applying template page Other-pages.flmsp...
+Generated lighted_christmas_tree_decor.html
 Generating micro content...
 Processing micro content: Resources\Micro-content\FAQs.flmco#which-is-the-first-day-s-gift-in-the-12-days-of-christmas...
-Generated microcontent\stylesheets\micro-response-1669708936.css
+Generated microcontent\stylesheets\micro-response1574703436.css
 Generated microcontent\Resources\Micro-content\FAQs\which-is-the-first-day-s-gift-in-the-12-days-of-christmas.html
 Processing micro content: Resources\Micro-content\FAQs.flmco#which-is-the-second-day-s-gift-in-the-12-days-of-christmas...
 Generated microcontent\Resources\Micro-content\FAQs\which-is-the-second-day-s-gift-in-the-12-days-of-christmas.html
@@ -64,6 +67,7 @@ Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the o
 Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.
 Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.
 Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.
+Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.
 Generating Search Database...
 Writing search entry cache...
 Generating final output...
@@ -71,22 +75,29 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.html
 Saving result set...
-Ignored Compiler Warnings: 3
+Ignored Compiler Warnings: 1
 Output generated in 8 second(s).
 
 Done
 Running Post-Build Event Command...
+Run Command Error: The system cannot find the drive specified.
+Run Command Error: 'grunt' is not recognized as an internal or external command,
+Run Command Error: operable program or batch file.
 Post-Build Event Command Done
-Saving log to "D:\VNA Blog\Output\Vaibhav\HTML5\HTML5.mclog"
+Saving log to "C:\Users\vgupta\Downloads\VNA Blog\Output\vgupta\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
-        <LogEntry File="../../../Content/Search.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
-        <LogEntry File="../../../Content/christmas decoration ideas for table.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
-        <LogEntry File="../../../Content/Privacy Policy.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
+        <LogEntry File="../../../Content/lighted christmas tree decor.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
         <LogEntry File="../../../Content/dining room christmas decoration.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
         <LogEntry File="../../../Content/Christmas.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
+        <LogEntry File="../../../Content/christmas decoration ideas for table.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
         <LogEntry File="../../../Content/christmas decoration ideas for office door.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
+        <LogEntry File="../../../Content/Search.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
+        <LogEntry File="../../../Content/Privacy Policy.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
         <LogEntry File="../../../Content/Outdoor Christmas Decoration Ideas.htm" Message="Micro content result of FAQ proxy is empty. FAQ proxy will be removed from the output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10185" />
+        <LogEntry Message="Run Command Error: The system cannot find the drive specified.&#xA;" LineIndex="-1" CharIndex="-1" Target="HTML5" ErrorID="10157" />
+        <LogEntry Message="Run Command Error: 'grunt' is not recognized as an internal or external command,&#xA;" LineIndex="-1" CharIndex="-1" Target="HTML5" ErrorID="10157" />
+        <LogEntry Message="Run Command Error: operable program or batch file.&#xA;" LineIndex="-1" CharIndex="-1" Target="HTML5" ErrorID="10157" />
     </Warnings>
     <Errors />
 </MadCapLog>

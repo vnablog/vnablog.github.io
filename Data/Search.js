@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[0],u:['../12-days-of-christmas.html'],s:['1','mistleto'],p:[['1',4],['central',2],['fairytale',6],['lights',7],['protocol',1],['them',4]]});
+define({r:.5,st:"Stem",n:1,t:[0],m:[0],u:["../12-days-of-christmas.html"],s:["1","lord"],p:[["1",4],["by",8],["elegance",7],["incorporate",4],["operated",8],["so",4],["true",3]]});
