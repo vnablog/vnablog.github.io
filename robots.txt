@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://www.anvblog.com/Sitemap.xmlUser-agent: *Disallow: /DataDisallow: /microcontentDisallow: /resourcesDisallow: /Skins
+Disallow: /
