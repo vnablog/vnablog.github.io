@@ -1,1 +1,1 @@
-define({r:.5,st:"Stem",n:1,t:[0],m:[0],u:["../12-days-of-christmas.html"],s:["1","lord"],p:[["1",4],["by",8],["elegance",7],["incorporate",4],["operated",8],["so",4],["true",3]]});
+define({r:.5,st:"Stem",n:1,t:[0],m:[0],u:["../12-days-of-christmas.html"],s:["1","door","maker","snack"],p:[["1",2],["ambiance",9],["away",9],["carefully",16],["cost",14],["don't",16],["favorite",16],["gift",18],["ideal",9],["kept",9],["memorable",3],["once",9],["pins",9],["right",10],["so",7],["that",8],["thoughtful",19],["unexpected",2],["with",10]]});
