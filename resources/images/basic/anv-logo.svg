@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.798843mm"
+   height="36.223267mm"
+   viewBox="0 0 44.798843 36.223267"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="AnvLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4627806"
+     inkscape:cx="294.98614"
+     inkscape:cy="169.88194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.8034264,-5.197563)">
+    <g
+       id="g5"
+       transform="translate(-40.335566,-13.927527)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7553px;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display';fill:#000000;stroke-width:0.372451"
+         x="45.942753"
+         y="44.654373"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="stroke-width:0.372451"
+           x="45.942753"
+           y="44.654373">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7553px;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display';fill:#000000;stroke-width:0.372451"
+         x="65.803009"
+         y="55.348354"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:0.372451"
+           x="65.803009"
+           y="55.348354">V</tspan></text>
+      <rect
+         style="fill:#c7c7c7;fill-opacity:0.995851;stroke-width:0.154743"
+         id="rect3"
+         width="41.824268"
+         height="3.9792943"
+         x="45.138992"
+         y="41.23996" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.57982px;font-family:Halimun;-inkscape-font-specification:Halimun;fill:#000000;stroke-width:0.142886"
+         x="45.290108"
+         y="49.358837"
+         id="text4"
+         transform="scale(1.1004023,0.90875855)"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-size:2.57982px;stroke-width:0.142886"
+           x="45.290108"
+           y="49.358837">Anil &amp; Vaibhav</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';letter-spacing:0.529167px;fill:#000000;fill-opacity:0.995851;stroke-width:0.264583"
+         x="51.543434"
+         y="48.985447"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="letter-spacing:0.529167px;fill:#000000;fill-opacity:0.995851;stroke-width:0.264583"
+           x="51.543434"
+           y="48.985447">BLOG</tspan></text>
+    </g>
+  </g>
+</svg>
