@@ -6,5 +6,6 @@ Sitemap: https://www.anvblog.com/Sitemap.xml
 User-agent: *
 Disallow: /Data
 Disallow: /microcontent
-Disallow: /resources
+Disallow: /resources/Scripts
 Disallow: /Skins
+Disallow: /resources/stylesheets
